@@ -13,7 +13,8 @@ This project presents a detailed **HR analytics dashboard** built using **Micros
 
 ## 📸 Dashboard Preview
 
-![HR Dashboard](Dashboard.png)
+<img width="1473" height="743" alt="Dashboard" src="https://github.com/user-attachments/assets/bc01c46d-49ea-4594-9869-bc3845f50a0b" />
+
 
 ## 📂 Files
 
